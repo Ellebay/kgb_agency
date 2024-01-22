@@ -21,4 +21,4 @@ STACKHERO_MYSQL_NAME= bdd name
 ```
 
 ### Create the BDD
-Use the file annexes/kgb_bdd.sql available in this repo.
+Use the file https://github.com/Ellebay/kgb_agency/blob/main/annexes/kgb_bdd.sql available in this repo.
