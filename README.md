@@ -19,3 +19,6 @@ STACKHERO_MYSQL_PASSWORD= password
 STACKHERO_MYSQL_USER= username
 STACKHERO_MYSQL_NAME= bdd name
 ```
+
+### Create the BDD
+Use the file annexes/kgb_bdd.sql available in this repo.
